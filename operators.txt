@@ -1,0 +1,10 @@
+Strings
+string concatenation ..
+length operator unary #
+
+Booleans
+the or operator is: or
+the and operator is: and
+
+
+

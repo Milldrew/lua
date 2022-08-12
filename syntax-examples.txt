@@ -2,3 +2,10 @@ local function foo()
   print('foo')
 end
 foo()
+
+print('input something')
+local input = io.read()
+print('Your input is: ' + input)
+
+local Word = "foo"
+print('The number of characters in the word' .. Word .. ' is: ' ..  #Word)

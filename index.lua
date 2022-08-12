@@ -1,4 +1,2 @@
-local function foo()
-  print('foo')
-end
-foo()
+local Word = "foo"
+print('The number of characters in the word' .. Word .. ' is: ' ..  #Word)
