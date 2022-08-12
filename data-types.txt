@@ -1,0 +1,9 @@
+nil
+Booleans
+number
+string
+function
+userdata
+thread
+table: associative arrays => arrays that can have indices not only numbers
+

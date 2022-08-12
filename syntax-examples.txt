@@ -9,3 +9,5 @@ print('Your input is: ' + input)
 
 local Word = "foo"
 print('The number of characters in the word' .. Word .. ' is: ' ..  #Word)
+local table = { name = 'value', secondname = 'second value'}
+print(table['name'] .. ' ' ..  table['secondname'])
